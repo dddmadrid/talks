@@ -59,4 +59,5 @@ según disponibilidad de los ponentes y espacios.
 
 ### Marzo 2017
 
-9 de marzo: [Introducción a Domain-Driven Design](https://github.com/dddmadrid/talks/issues/1). Ver en [Meetup](https://www.meetup.com/es-ES/dddmadrid/events/237561762/).
+16 de marzo:  [Introducción a Domain-Driven Design](https://github.com/dddmadrid/talks/issues/2). Ver en [Meetup](https://www.meetup.com/es-ES/dddmadrid/events/237561762/).
+9 de marzo:   [Introducción a Domain-Driven Design](https://github.com/dddmadrid/talks/issues/1). Ver en [Meetup](https://www.meetup.com/es-ES/dddmadrid/events/237704171/).
