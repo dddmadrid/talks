@@ -57,6 +57,7 @@ Es nuestro compromiso con un ambiente libre de malos rollos.
 La fecha y organización de las charlas puede cambiar sin previo aviso,
 según disponibilidad de los ponentes y espacios.
 
-|Fecha|Charla|Meetup|
-|16 de marzo|[Introducción a Domain-Driven Design](https://github.com/dddmadrid/talks/issues/2)|Ver en [Meetup](https://www.meetup.com/es-ES/dddmadrid/events/237561762/)|
-|9 de marzo|[Introducción a Domain-Driven Design](https://github.com/dddmadrid/talks/issues/1)|Ver en [Meetup](https://www.meetup.com/es-ES/dddmadrid/events/237704171/)|
+Fecha|Charla|Meetup|Ponente
+-----|------|------|-------
+16 de marzo|[Introducción a Domain-Driven Design](https://github.com/dddmadrid/talks/issues/2)|[Meetup](https://www.meetup.com/es-ES/dddmadrid/events/237561762/)|Javi Fernandez
+9 de marzo|[Introducción a Domain-Driven Design](https://github.com/dddmadrid/talks/issues/1)|[Meetup](https://www.meetup.com/es-ES/dddmadrid/events/237704171/)|Javi Fernandez
