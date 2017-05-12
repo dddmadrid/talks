@@ -59,5 +59,11 @@ según disponibilidad de los ponentes y espacios.
 
 Fecha|Charla|Meetup|Ponente
 -----|------|------|-------
+30 de mayo|[Black Ops DDD usando Business Model Canvas](https://github.com/dddmadrid/talks/issues/3)|[Meetup](https://www.meetup.com/es-ES/dddmadrid/events/239929327/)|Javi Fernandez
+
+
+## Histórico de charlas
+Fecha|Charla|Meetup|Ponente
+-----|------|------|-------
 16 de marzo|[Introducción a Domain-Driven Design](https://github.com/dddmadrid/talks/issues/2)|[Meetup](https://www.meetup.com/es-ES/dddmadrid/events/237561762/)|Javi Fernandez
 9 de marzo|[Introducción a Domain-Driven Design](https://github.com/dddmadrid/talks/issues/1)|[Meetup](https://www.meetup.com/es-ES/dddmadrid/events/237704171/)|Javi Fernandez
